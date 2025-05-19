@@ -72,3 +72,9 @@ body {
     .botoes:{ flex
     }
 }
+:root {
+    --primary-color : #047380;
+    --secundary-color : #3ca6a6;
+    --button-hover : #024959
+    
+}
